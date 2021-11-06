@@ -1,0 +1,31 @@
+START| YOSEMITE, SEQUOIA| There are two options to visit National Parks. You have Yosimite and Sequoia. You will chose a) Yosemite National Park or b) Sequoia National Park?
+
+YOSEMITE| VALLEY, GLACIER POINT ROAD| You are hiking in Yosemite. You will choose one of two trails.  Do you a) take the Valley trail with many beautiful trail loops or b) take the Glacier road with huge mountain?
+
+VALLEY| MIRROR LAKE LOOP, HALF DOME| You are taking Valley trail. You will choose one of two trails.  Do you a) take the Mirror lake which is very easy and  or b) take the Half Dome which is very tough?
+
+MIRROR LAKE LOOP|| It is 5 miles trail.
+HALF DOME|| It is 16 miles trail.
+
+GLACIER POINT ROAD| MOUNT STARR KING, GLACIER POINT| You are taking Glacier Point Road trail. You will choose one of two trails.  Do you a) take the Mount Starr King which is crossing creeks  or b) take the Glacier Point which has panoramic views of eastern Yosemite Valley?
+
+MOUNT STARR KING|| It is 3 miles trail.
+
+GLACIER POINT| FOUR MILE, PANORAMA| You are taking Glacior Point trail. You will choose one of two trails.  Do you a) take the Four Mile which is very easy and  or b) take the Panorama Trail which is tough
+
+FOUR MILE|| It is 4.8 miles trail.
+PANORAMA|| It is 8 miles trail.
+
+SEQUOIA| SNOW, WATERFALL| You are choosing hiking destinations in Sequoia.  You can enjoy the snow or the beautiful waterfall.  Do you a) take snowy road or b) take the waterfall hike?
+
+SNOW| BIG TREES TRAIL, ALTA PEAK TRAIL| You are taking trail in a snowy condition. You will choose one of two trails.  Do you a) take the Big Trees trail which is very easy and  or b) take the Alta Peak Trail which is tough?
+
+BIG TREES TRAIL|| It is 1.2 miles trail.
+
+ALTA PEAK TRAIL|| It is 7 miles trail.
+
+WATERFALL| TOKOPAH, HEATHER LAKE| You are taking trail to a waterfall. You will choose one of two trails.  Do you a) take the Tokopah trail which is very easy and  or b) take the Heather Lake trail which is tough?
+
+TOKOPAH|| It is 4 miles trail.
+HEATHER LAKE|| It is 12 miles trail.
+
